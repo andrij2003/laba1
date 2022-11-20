@@ -6,8 +6,8 @@
 - Результати виконання завдання № 1:
     1. Створив папку і в папці файл .py
     2. Програма вивела: 
-    ![alt text](https://github.com/stasik1435/laba/raw/main/laba1/image/Screenshot_4.png "Результат № 1")
-    ![alt text](https://github.com/stasik1435/laba/raw/main/laba1/image/Screenshot_3.png "Результат № 2")
+    ![alt text](https://github.com/andrij2003/laba1/raw/main/Andrij/img/Screenshot_11.png "Результат № 1")
+    ![alt text](https://github.com/andrij2003/laba1/raw/main/Andrij/img/Screenshot_12.png "Результат № 2")
 
 - Код:
 ```python
